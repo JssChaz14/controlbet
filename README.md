@@ -1,1 +1,1 @@
-# controlbet
+# ControlBet
